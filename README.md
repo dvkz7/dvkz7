@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6400&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Pela+ordem+jogador!,+me+chamo+Gustavo;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
@@ -23,4 +23,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6400&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
