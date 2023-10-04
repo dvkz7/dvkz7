@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoantonio7&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=394867&text_color=FFFFFF&bg_color=FF6400" alt="Guxta GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantonio7&layout=compact&hide_border=true&title_color=394867&text_color=FFFFFF&bg_color=FF6400" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantonio7&layout=compact&hide_border=true&title_color=fff&text_color=FFFFFF&bg_color=FF6400" />
 </div>
 
 <div align="center"> 
