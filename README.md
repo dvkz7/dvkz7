@@ -1,10 +1,10 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FfF&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Pela+ordem+jogador!,+me+chamo+Gustavo;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoantonio7&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=394867&text_color=FFFFFF&bg_color=FF6400" alt="Guxta GitHub stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoantonio7&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=394867&text_color=000&bg_color=fff" alt="Guxta GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantonio7&layout=compact&hide_border=true&title_color=fff&text_color=FFFFFF&bg_color=FF6400" />
 </div>
 
@@ -23,4 +23,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=120&section=header"/>
