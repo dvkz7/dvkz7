@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Pela+ordem+jogador!,+me+chamo+Gustavo;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoantonio7&show_icons=true&count_private=true&hide_border=true&title_color=000&icon_color=394867&text_color=000&bg_color=fff" alt="Guxta GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantonio7&layout=compact&hide_border=true&title_color=fff&text_color=000&bg_color=FFF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoantonio7&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=394867&text_color=fff&bg_color=000" alt="Guxta GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantonio7&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=000" />
 </div>
 
 <div align="center"> 
