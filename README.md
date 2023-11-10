@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007FFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+gustavo+antonio,+seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007FFF&size=40&center=true&vCenter=true&width=1000&lines=Opa!,Meu+nome+é+Gustavo+Antonio,+Seja+Bem-Vindo+Jogador!)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -16,7 +16,7 @@
 
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8ff00&height=80&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=80&section=footer"/>
 
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -34,7 +34,7 @@
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=green&labelColor=0D1117)&nbsp;
 
 <!-- Seção de rodapé -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9BA4B5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=120&section=footer"/>
 
 
 <picture>
