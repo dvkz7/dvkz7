@@ -5,8 +5,8 @@
 
 <!-- Seção de estatísticas do GitHub -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoantonio7&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=FFFFFF&bg_color=3299CC" alt=" gustavo antonioGitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantonio7&layout=compact&hide_border=true&title_color=394867&text_color=FFFFFF&bg_color=3299CC" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavoantonio7&show_icons=true&count_private=true&hide_border=true&title_color=9BA4B5&icon_color=394867&text_color=FFFFFF&bg_color=A8A8A8 alt=" gustavo antonioGitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoantonio7&layout=compact&hide_border=true&title_color=394867&text_color=FFFFFF&bg_color=A8A8A8" />
 </div>
 
 <!-- Seção de redes sociais -->
