@@ -9,7 +9,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dvkz7&show_icons=true&count_private=true&hide_border=true&title_color=9&icon_color=fffff&text_color=ffffff,&bg_color=000000" alt= dv 
      GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvkz7&layout=compact&hide_border=true&title_color=394867&text_color=ffffff&bg_color=000000" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvkz7&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
 <div align="center"> 
