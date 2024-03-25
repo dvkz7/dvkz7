@@ -13,7 +13,22 @@
 </div>
 
 <div align="center"> 
-<a href="https://www.instagram.com/guzera10/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
+<a href="https://www.instagram.com/guzera10/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a
+  <br>
+## 💀 My stats...
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div display="inline-block">
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&ring_color=6394ff)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&layout=compact)
+
+
+</div>
+
+<br>
+
  ## 🧠 Programming Languagens and Tools 
 
  <div display="inline-block">    
@@ -44,4 +59,20 @@ style="fill:#FFFFFF;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="45px"/>
           
  </div>  
+          
+
+<!--
+**bruno-rodrigues0/bruno-rodrigues0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
