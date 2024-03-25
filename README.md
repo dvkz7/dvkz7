@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==fff,&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!;)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvkz7&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvkz7&theme=react-dark&point=ffffff&hide_border=true&bg_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div display="inline-block">
 
-![Dv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvkz7&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&ring_color=6394ff)
-![Dv's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dvkz7&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&layout=compact)
+![Dv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvkz7&show_icons=true&theme=radical&title_color=ffffff&hide_border=true&bg_color=000000&text_color=ffffff&card_width=400&ring_color=6394ff)
+![Dv's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dvkz7&show_icons=true&theme=radical&title_color=ffffff&hide_border=true&bg_color=0000&text_color=ffffff&card_width=400&layout=compact)
 
 
 </div>
