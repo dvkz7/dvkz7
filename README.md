@@ -3,26 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com//?color==fff,&size=35&center=true&vCenter=true&width=1000&lines=Seja-Bem+Vindo+ao+meu+perfil!;)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvkz7&bg_color=000000,&color=fffffd&line=197a31&point=155d27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
-<br>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dvkz7&show_icons=true&count_private=true&hide_border=true&title_color=9&icon_color=fffff&text_color=ffffff,&bg_color=000000" alt= dv 
-     GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvkz7&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
-</div>
-
-<div align="center"> 
-<a href="https://www.instagram.com/guzera10/" target="_blank" rel="external"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a
-  <br>
-## 💀 My stats...
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-rodrigues0&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dvkz7&theme=react-dark&point=6394ff&hide_border=true&bg_color=0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div display="inline-block">
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&ring_color=6394ff)
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rodrigues0&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&layout=compact)
+![Dv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvkz7&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&ring_color=6394ff)
+![Dv's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dvkz7&show_icons=true&theme=radical&title_color=6394ff&hide_border=true&bg_color=0000&text_color=6394ff&card_width=400&layout=compact)
 
 
 </div>
